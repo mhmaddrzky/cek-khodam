@@ -1,15 +1,15 @@
 const motivationalMessages = [
-    "Kamu luar biasa!",
-    "Kerja kerasmu akan membuahkan hasil!",
-    "Tetap semangat, aku mendukungmu!",
-    "Kamu bisa melakukan apapun yang kamu pikirkan!",
-    "Jangan menyerah, teruslah berjuang!",
-    "Setiap usaha tidak akan sia-sia!",
-    "Aku bangga padamu!",
-    "Lakukan yang terbaik, hasilnya akan mengikuti!",
-    "Tetap fokus dan terus melangkah!",
-    "Kamu lebih kuat dari yang kamu kira!",
-    "Semangat terus yah, jangan ngeluh! Aku bakal selalu ada kok."
+    "sely luar biasa!",
+    "Kerja keras piraku teu membuahkan hasil bener teu hehe😁!",
+    "pokonamah Tetap semangat, abi pasti selalu ngadukung",
+    "tetap menyerah, jangan semangat 😁!",
+    "Setiap usaha pasti aya hasilna!",
+    "pasti bangga si mamah si bapa teh!",
+    "Lakukan yang terbaik, hasilna pasti nuturkeun!",
+    "jangan lupa sholat oge!",
+    "coba'ana edan edanan asa teu munkin lamun hadiah na kipas angin bener teu?🤣",
+    "Semangat terus pokonamah ti abi ngeluh bae nyerah jangan"
+    
 ];
 
 document.getElementById('revealButton').addEventListener('click', function() {
